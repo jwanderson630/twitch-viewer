@@ -1,0 +1,136 @@
+.panel-area {
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+body{
+  background-color: #fdf7ef;
+}
+
+.footer {
+  background-color:#0B414F;
+}
+
+h6 {
+  color: #fdf7ef;
+}
+
+img {
+  width: 50px;
+  height: 50px;
+  margin-right: 30px;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover{
+  text-decoration: none;
+}
+
+a:visited{
+  text-decoration: none;
+}
+
+.none {
+  display: none;
+}
+
+.panel-group {
+  margin-top: 30px;
+}
+
+.navbar {
+	      margin-bottom: 0;
+	      background-color: #0B414F;
+	      border: 0;
+	      font-size: 12px !important;
+	      line-height: 1.42857143 !important;
+	      letter-spacing: 4px;
+	      border-radius: 0;
+	      font-family: Montserrat, sans-serif;
+	  }
+
+.navbar-brand{
+  background-color:#0B414F !important;
+  color: #fdf7ef !important;
+}
+
+.nav li a{
+  background-color: #fdf7ef !important;
+  color: #0B414F !important;
+}
+
+.nav li a:hover,.navbar-brand:hover, .nav li a.inactive:hover{
+  background-color: #fdf7ef !important;
+  color: #0B414F !important;
+}
+
+.nav li a.inactive{
+  background-color:  #0B414F  !important;
+  color:  #fdf7ef !important;
+}
+
+.navbar-default .navbar-toggle {
+	      border-color: #fdf7ef;
+        background-color: transparent !important;
+}
+
+.navbar-default .navbar-toggle:hover {
+	      border-color: transparent;
+	      background-color: #fdf7ef !important;
+}
+
+.navbar-default .navbar-toggle:click {
+	      border-color: transparent;
+	      background-color: #fdf7ef !important;
+}
+
+.navbar-default .navbar-toggle:hover .icon-bar {
+	      background-color: #0B414F !important;
+}
+
+.icon-bar {
+  background-color: #fdf7ef !important;
+}
+
+.panel {
+  margin-top: 10px;
+}
+
+.panel-heading{
+  color: #fdf7ef !important;
+  font-size: 20px;
+  font-family: montserrat;
+}
+
+.panel-body{
+  color:black;
+}
+
+.panel-success .panel-heading {
+  background-color: #62B205;
+  
+}
+
+.panel-info .panel-heading {
+  background-color: #004DA6;
+  color: #fdf7ef !important;
+  font-size: 20px;
+  font-family: montserrat;
+}
+
+.panel-warning .panel-heading {
+  background-color: #DDDDDD;
+  color: #fdf7ef !important;
+  font-size: 20px;
+  font-family: montserrat;
+}
+
+.panel-success:hover .panel-heading {
+  background-color: #4A8704;
+}
+
+.panel-info:hover .panel-heading {
+  background-color: #003A7D;
+}
